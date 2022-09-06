@@ -1,6 +1,9 @@
 {
   "name": "telegraphcloneserver",
   "version": "1.0.0",
+  "engines": {
+    "node": "18.3"
+  },
   "description": "",
   "main": "index.js",
   "dependencies": {
